@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "title": "Manchester United vs Crystal Palace",
+    "body": "What a waste. Disgusting. I can't believe it!",
+    "category": "News",
+    "username": "ferandesFan",
+    "likes": [
+      "test1",
+      "manUnitedFan101",
+      "coojude16",
+      "loveSoccerFan",
+      "unitedLover01",
+      "danny1",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "timtamsFood",
+      "ILOVEMANCHESTER",
+      "user2"
+    ],
+    "dislikes": [
+      "homeSimpson",
+      "JaneSoccer",
+      "hello3944",
+      "ferandesFan"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "HOW DID THEY LOSE",
+    "body": "I STAYED UP FOR NOTHING. L.",
+    "category": "News",
+    "username": "ferandesFan",
+    "likes": [
+      "homeSimpson",
+      "coojude16",
+      "loveSoccerFan",
+      "unitedLover01",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "timtamsFood",
+      "ILOVEMANCHESTER",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "test1",
+      "manUnitedFan101",
+      "danny1",
+      "hello3944",
+      "iLovePepsiMax"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Manchester United",
+    "body": "They just  dropped their Football Kits! They look fireee!",
+    "category": "News",
+    "username": "tamara3944",
+    "likes": [
+      "test1",
+      "manUnitedFan101",
+      "coojude16",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "ILOVEMANCHESTER",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "homeSimpson",
+      "loveSoccerFan",
+      "hello3944",
+      "timtamsFood",
+      "iLovePepsiMax",
+      "user2"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "BELOW CHELSEA",
+    "body": "I can't believe Manchester United is officially below CHELSEA!!! This is unbelievable. I can't believe this. Ugh",
+    "category": "News",
+    "username": "tamara3944",
+    "likes": [
+      "test1",
+      "coojude16",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "timtamsFood",
+      "ILOVEMANCHESTER"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "loveSoccerFan",
+      "hello3944",
+      "iLovePepsiMax",
+      "ferandesFan"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "MANCHESTER UNITED ON TOP",
+    "body": "THIS HAS BEEN A ROUGH SEASON. BUT MAN UNITED IS ON TOP. WE WILL BE ON TOP AGAIN. JUST WAIT TILL NEXT SEASON!",
+    "category": "General",
+    "username": "tamara3944",
+    "likes": [
+      "test1",
+      "coojude16",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "ILOVEMANCHESTER"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "loveSoccerFan",
+      "iLovePepsiMax",
+      "ferandesFan"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "PASTOR FRED",
+    "body": "WHO WAS GOING TOT TELL ME THEY SOLD HIM????",
+    "category": "Players",
+    "username": "manunitedFan",
+    "likes": [
+      "test1",
+      "coojude16",
+      "unitedLover01",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "timtamsFood",
+      "ILOVEMANCHESTER",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "loveSoccerFan",
+      "danny1",
+      "hello3944",
+      "iLovePepsiMax"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "BRING PASTOR FRED BACK!??!?!",
+    "body": "WE WANT FRED. WE WOULDN'T HAVE LOST OUR UNITED GAME!",
+    "category": "Players",
+    "username": "manunitedFan",
+    "likes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "timtamsFood",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "test1",
+      "coojude16",
+      "loveSoccerFan",
+      "hello3944",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "BEST PLAYER OF ALL TIME!!!",
+    "body": "BRUNOOOO FERNADESS IS NUMBER !",
+    "category": "Players",
+    "username": "ferandesFan",
+    "likes": [
+      "test1",
+      "homeSimpson",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "ILOVEMANCHESTER",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "coojude16",
+      "loveSoccerFan",
+      "iLovePepsiMax"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Feeling bad for him...",
+    "body": "Harry Maguire, it sucks to see the hate he gets. He played phenomenal this season! ",
+    "category": "Players",
+    "username": "ferandesFan",
+    "likes": [
+      "manUnitedFan101",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "test1",
+      "homeSimpson",
+      "loveSoccerFan",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "THIS CLUB WILL RISE AGAIN",
+    "body": "Lets forget the Chelsea game! They played really well with Liverpool and will climb back again",
+    "category": "Clubs",
+    "username": "unitedLover",
+    "likes": [
+      "test1",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "coojude16",
+      "loveSoccerFan",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Pastor Fred?",
+    "body": "Who is pastor fred?",
+    "category": "Players",
+    "username": "unitedLover",
+    "likes": [
+      "test1",
+      "coojude16",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "ILOVEMANCHESTER",
+      "ferandesFan",
+      "user1"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "loveSoccerFan",
+      "iLovePepsiMax"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "I can't wait for the Manchester Derby",
+    "body": "Anyone else?",
+    "category": "News",
+    "username": "unitedLover",
+    "likes": [
+      "test1",
+      "loveSoccerFan",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "user1"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Manchester Derby",
+    "body": "Who is matching!",
+    "category": "Clubs",
+    "username": "ferandesFan",
+    "likes": [
+      "coojude16",
+      "test1",
+      "loveSoccerFan",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "homeSimpson",
+      "MarinaLovesGK",
+      "ferandesFan"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Manchester",
+    "body": "Yoo they such good people!",
+    "category": "General",
+    "username": "tamara3944",
+    "likes": [
+      "test1",
+      "manUnitedFan101",
+      "loveSoccerFan",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "BartSimp",
+      "manunitedFan",
+      "hello3944",
+      "timtamsFood",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER"
+    ],
+    "dislikes": [
+      "homeSimpson",
+      "coojude16",
+      "MarinaLovesGK",
+      "ferandesFan"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "I <3 man united",
+    "body": "Just wanted to share that :)",
+    "category": "News",
+    "username": "tamara3944",
+    "likes": [
+      "coojude16",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "BartSimp",
+      "hello3944",
+      "timtamsFood",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER",
+      "user1"
+    ],
+    "dislikes": [
+      "test1",
+      "manUnitedFan101",
+      "homeSimpson",
+      "loveSoccerFan",
+      "MarinaLovesGK",
+      "manunitedFan",
+      "ferandesFan"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Hey Everyone!",
+    "body": "This is so cool!",
+    "category": "General",
+    "username": "tamara3944",
+    "likes": [
+      "test1",
+      "homeSimpson",
+      "coojude16",
+      "unitedLover01",
+      "danny1",
+      "JaneSoccer",
+      "hello3944",
+      "iLovePepsiMax",
+      "ILOVEMANCHESTER",
+      "ferandesFan"
+    ],
+    "dislikes": [
+      "manUnitedFan101",
+      "loveSoccerFan",
+      "MarinaLovesGK",
+      "BartSimp",
+      "manunitedFan",
+      "timtamsFood"
+    ]
+  }
+]
