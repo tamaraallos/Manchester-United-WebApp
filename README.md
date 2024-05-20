@@ -3,6 +3,9 @@
 ## Overview
 The Manchester United Fan Club Web Application is a dynamic platform designed for fans of the football club Manchester United. This project aims to provide a space for fans to engage with each other, discuss club-related topics, and interact with various features tailored to enhance user experience.
 
+## Access Live Web App
+https://664b2c417c57ca9a47ac9433--manchesterunitedfe.netlify.app/home
+
 ## Features
 - **Responsive Design**: Ensures optimal viewing experience across multiple devices.
 - **User Authentication**: Allows users to register, log in, and access personalized features.
@@ -33,4 +36,5 @@ To run the Manchester United Fan Club Web Application locally, follow these step
 ## Credits
 This project was developed by Tamara Allos as an initiative to enhance her skills in web development.
 I would like to give credit to the Offical Manchester Website as inspirations as well as where I got my images
-from under my 'Player's page'.
+from under my 'Player's page'. This is NOT an offical Manchester United website. I used Manchester United images
+and logo for educational purposes.
